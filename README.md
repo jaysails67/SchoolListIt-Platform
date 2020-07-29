@@ -1,7 +1,7 @@
 # SchoolListIt
 
 ### Covid-19 has education at all levels in a tailspin
-Many schools are not going back in a normal this fall, many are using a blended remote/in person model, and some still have not finalized thier plans. Fully in-person attendance may not be sustainable in areas with continued outbreak. Many families are uncomfortable sending thier children into such uncertainty, and are opting out of public school and into homeschooling. 
+Many schools are not going back to normal this fall, many are using a blended remote/in person model, and some still have not finalized their plans. Fully in-person attendance may not be sustainable in areas with continued outbreak. Many families are uncomfortable sending thier children into such uncertainty, and are opting out of public school and into homeschooling. 
 
 This creates a particularly tough challenge for many families including 
 - students with fewer choices
@@ -16,18 +16,18 @@ Teachers need streamlined communications with families.
 
 Students need help staying on track with a wider sphere of support.
 
-Families new to Homeschooling need attendance, testing, and transcripts.
+Families new to Homeschooling need improved organization, attendance, testing, and transcripts.
 
 ## SchoolListIt
 ### What (School Assignments) are due and when, for any school, anywhere, no matter how you school
 
-As a working mom and I built SchoolListIt out of necessity. I have two school aged children, a job, and a baby. Like many now, I work from home. Daycare is either closed or not feasible, and fear of the virus prevents hiring in-home childcare. Successfully keeping my students on track with schoolwork is overwhelming. Maintaining and improving Education in this new Reality is of utmost importance. 
+As a working mom and I built SchoolListIt out of necessity. I have two school aged children, a job, and a baby. Like many now, I work from home. Daycare is either closed or not feasible, and fear of the virus prevents hiring in-home childcare. Successfully keeping my students on track with schoolwork is overwhelming. Maintaining and improving education in this new reality is of utmost importance. 
 
 Teachers rely on so many learning apps, but for a mom with multiple children that quickly compounds. Each child has multiple teachers using multiple 'Apps' and each school has different systems. This quickly turns into chaos. When remote learning began after Covid, I scoured the web for an 'App' that could organize it all for me, but **there just isn't an app for that.**  
 
 ### Instead of complaining, I created SchoolListit.
 
-SchoolListIt pulls it all together into one easily discernable format that parents, grandparents, and guardians from a wider variety of backgrounds can understand. 
+SchoolListIt pulls it all together into one easily discernable format for parents, grandparents, and guardians from a wider variety of backgrounds. 
 
 SchoolListit is currently a free and open platform for parents, teachers, and anyone in a student’s support network. Instead of reinventing what teachers and schools are likely to use, I chose to build a React App that can feed from any existing system's data via REST API, and consolidate diverse learning tools in one place. 
 
